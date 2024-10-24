@@ -90,7 +90,7 @@ int main(){
          << setw(15) << "Besar Cicilan"
          << setw(15) << "pembayaran ke "
          << setw(15) << "uang kuliah terbayar" 
-		 << setw(15) << "Sisa uang kuliah"<< endl;
+         << setw(15) << "Sisa uang kuliah"<< endl;
 		 
 	cout<< "========================================================================================================================================================\n";
 	
